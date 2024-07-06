@@ -1,0 +1,30 @@
+[
+  {
+    "asin": "1621579832",
+    "title": "Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71WdFQNYSJL.jpg",
+    "price": 17.39,
+    "category": "history"
+  },
+  {
+    "asin": "0307742482",
+    "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81qxqy2R%2BmL.jpg",
+    "price": 12.71,
+    "category": "history"
+  },
+  {
+    "asin": "0525512179",
+    "title": "21 Lessons for the 21st Century",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/811iZOA9%2B8L.jpg",
+    "price": 14.9,
+    "category": "history"
+  },
+  {
+    "asin": "0307476073",
+    "title": "Wild: From Lost to Found on the Pacific Crest Trail",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81WNVAgspxL.jpg",
+    "price": 10.27,
+    "category": "history"
+  },
+]
